@@ -1,0 +1,26 @@
+/* style file for ImageSlider.js */
+
+.sliderImg{
+    width: 81%;
+    max-height: 610px;
+    object-fit: fill;
+    z-index: -1;
+    cursor: pointer;
+}
+
+.rec-arrow:hover:not(:disabled) {
+    transform: scale(1.2);
+}
+.rec-arrow {
+    background-color: var(--blue) !important;
+    transition: all 0.3s ease;
+    font-size: 1.1rem !important;
+    color: white !important;
+    width: 1.7rem !important;
+    height: 1.7rem !important;
+    min-width: 1.7rem !important;
+    line-height: 1.7rem !important;
+}
+/* .rec.rec-dot {
+    display: none;
+} */

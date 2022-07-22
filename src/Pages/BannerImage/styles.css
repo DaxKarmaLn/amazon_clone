@@ -1,0 +1,8 @@
+/* style file for BannerImage.js */
+
+.center {
+    height: 15vw;
+    width: 60vw;
+    object-fit: fill;
+    margin: auto;
+}
