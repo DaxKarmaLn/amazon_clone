@@ -12,12 +12,13 @@ Frameworks And Libraries used:
 Database Used: 
 1) MySQL
 
-https://ibb.co/nDnTkfy
-https://ibb.co/JHhG6Mv
-https://ibb.co/PZ9Bg7M
-https://ibb.co/nPTrNQM
-https://ibb.co/mJCyHST
-https://ibb.co/4JdzDy6
-https://ibb.co/BVZ3t3v
-https://ibb.co/s3f56yF
-https://ibb.co/CWT6KRk
+Screenshots: 
+![1](https://user-images.githubusercontent.com/109661571/180383715-08604ac4-be0b-43f3-8c3f-ba0c62dc9ca7.png)
+![2](https://user-images.githubusercontent.com/109661571/180383681-82d3ce3a-79e6-4566-bc50-73c5de433a16.png)
+![3](https://user-images.githubusercontent.com/109661571/180383693-88cb2de7-b293-41bf-bb9b-cb766068cdd8.png)
+![4](https://user-images.githubusercontent.com/109661571/180383696-0bbd4aba-f2e2-4ecf-ab54-1d89ccb689bc.png)
+![5](https://user-images.githubusercontent.com/109661571/180383700-1b7802c5-d66f-4ae6-84b3-30be5dd37032.png)
+![6](https://user-images.githubusercontent.com/109661571/180383702-3ca46917-e370-4716-a293-64240eb38377.png)
+![7](https://user-images.githubusercontent.com/109661571/180383703-9461f65c-d59f-4b69-b7f7-5db9d5f0c8bc.png)
+![8](https://user-images.githubusercontent.com/109661571/180383706-bfb76b1a-b60b-477a-bb2a-893d1557d76d.png)
+![9](https://user-images.githubusercontent.com/109661571/180383708-4612d533-595b-42aa-ac89-da479df5f74e.png)
