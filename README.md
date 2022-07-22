@@ -1,4 +1,6 @@
 # amazon_clone
+Amazon Clone With React JS
+
 Project's Title: AmazonEcommerce
 
 Languages used:
